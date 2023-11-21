@@ -1,5 +1,3 @@
-# Project-2
-
 # WebInsights-MultiSourceAnalysis
 
 ## Description
